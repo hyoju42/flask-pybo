@@ -1,7 +1,4 @@
-textarea {
-    width: 100%;
-}
-
-button[type=submit] {
-    margin-top: 10px;
+body{
+    font-family: "Gothic A1", sans-serif;
+    font-weight: 400;
 }
